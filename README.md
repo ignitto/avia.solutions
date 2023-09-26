@@ -1,6 +1,4 @@
-# avia.solutions app
-
-[![Coverage Status](https://coveralls.io/repos/github/ignitto/avia.solutions/badge.svg?branch=main)](https://coveralls.io/github/ignitto/avia.solutions?branch=main)
+# AVIA Solutions app
 
 Avia solutions Spring Boot Kotlin flight registration system.
 
